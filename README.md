@@ -68,7 +68,7 @@ Some images inside the `assets/` directory are used for layout testing and UI ex
 
 For questions or collaboration ideas:
 
-- Email: **dcuz.tech@protonmail.com**
+- Email: **oldisortiz@gmail.com**
 
 ---
 
